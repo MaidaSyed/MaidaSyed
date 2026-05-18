@@ -116,8 +116,7 @@ const maida = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-MaidaSyed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaidaSyed)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://maidasyed.github.io)
-[![Facebook](https://img.shields.io/badge/Facebook-samina.waseem.1293-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/samina.waseem.1293)
-[![Instagram](https://img.shields.io/badge/Instagram-maida.syed34-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maida.syed34/)
+[![Instagram](https://img.shields.io/badge/Instagram-maida.syed34-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_maidasyed/)
 
 </div>
 
@@ -133,10 +132,7 @@ const maida = {
 
 <div align="center">
 
-### 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=MaidaSyed&color=00D9FF&style=flat-square&label=Profile+Views)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 
 **"Code. Learn. Repeat. 🚀"**
 
