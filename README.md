@@ -99,15 +99,15 @@ const maida = {
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔐 [**NextHire-AI**](https://next-hire-ai-beta.vercel.app/) | AI-powered hiring platform | JavaScript, AI |
-| 🔐 [**Smart Skill Exchange Platform**](https://smart-skill-exchange-platform.vercel.app/) | AI-powered hiring platform | JavaScript, React |
-| 💬 [**Chat Application**](https://github.com/MaidaSyed/chatApplication) | Real-time chat app | HTML, CSS, JS, Firebase |
-| 🛠️ [**CodeSoft Internship**](https://github.com/MaidaSyed/codeSoft) | Internship project collection | CSS, JS |
-| 🧪 [**Plagiariism Detector**](https://github.com/MaidaSyed/Plagiarism-Detector-DSA) | Highlight Plagiarism | DSA |
-| ⚗️ [**Periodic Table**](https://github.com/MaidaSyed/Periodic-Table) | Interactive periodic table | HTML |
-| 🏦 [**Banker's Algorithm**](https://github.com/MaidaSyed/Bankers-Algorithm) | OS deadlock avoidance | Systems |
+| Icon | Project | Description | Tech Stack |
+| :---: | :--- | :--- | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25"/> | [**NextHire-AI**](https://next-hire-ai-beta.vercel.app/) | AI-powered hiring platform | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![AI](https://img.shields.io/badge/-AI-blue) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="25"/> | [**Smart Skill Exchange**](https://smart-skill-exchange-platform.vercel.app/) | AI-powered hiring platform | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="25"/> | [**Chat Application**](https://github.com/MaidaSyed/chatApplication) | Real-time chat app | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/> | [**CodeSoft Internship**](https://github.com/MaidaSyed/codeSoft) | Internship project collection | ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25"/> | [**Plagiarism Detector**](https://github.com/MaidaSyed/Plagiarism-Detector-DSA) | Highlight Plagiarism | ![DSA](https://img.shields.io/badge/-DSA-orange) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25"/> | [**Periodic Table**](https://github.com/MaidaSyed/Periodic-Table) | Interactive periodic table | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="25"/> | [**Banker's Algorithm**](https://github.com/MaidaSyed/Bankers-Algorithm) | OS deadlock avoidance | ![Systems](https://img.shields.io/badge/-Systems-grey) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black) |
 
 ---
 
