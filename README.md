@@ -101,10 +101,11 @@ const maida = {
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 🔐 [**NextHire-AI**](https://github.com/MaidaSyed/NextHire-AI) | AI-powered hiring platform | JavaScript, AI |
+| 🔐 [**NextHire-AI**](https://next-hire-ai-beta.vercel.app/) | AI-powered hiring platform | JavaScript, AI |
+| 🔐 [**Smart Skill Exchange Platform**](https://smart-skill-exchange-platform.vercel.app/) | AI-powered hiring platform | JavaScript, React |
 | 💬 [**Chat Application**](https://github.com/MaidaSyed/chatApplication) | Real-time chat app | HTML, CSS, JS, Firebase |
 | 🛠️ [**CodeSoft Internship**](https://github.com/MaidaSyed/codeSoft) | Internship project collection | CSS, JS |
-| 🧪 [**Debug & Die**](https://github.com/MaidaSyed/Debug_And_Die) | Debugging challenge project | CSS |
+| 🧪 [**Plagiariism Detector**](https://github.com/MaidaSyed/Plagiarism-Detector-DSA) | Highlight Plagiarism | DSA |
 | ⚗️ [**Periodic Table**](https://github.com/MaidaSyed/Periodic-Table) | Interactive periodic table | HTML |
 | 🏦 [**Banker's Algorithm**](https://github.com/MaidaSyed/Bankers-Algorithm) | OS deadlock avoidance | Systems |
 
