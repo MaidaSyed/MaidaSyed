@@ -115,8 +115,8 @@ const maida = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-MaidaSyed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaidaSyed)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://maidasyed.github.io)
-[![Instagram](https://img.shields.io/badge/Instagram-maida.syed34-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_maidasyed/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)]([https://maidasyed.github.io](https://maida-syed-portfolio.netlify.app/))
+[![Instagram](https://img.shields.io/badge/Instagram-_maidasyed-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_maidasyed/)
 
 </div>
 
