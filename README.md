@@ -28,7 +28,7 @@ const maida = {
   university  : "FAST-NUCES, Karachi 🎓",
   degree      : "B.S. Computer Science",
   passion     : ["Web Development", "Problem Solving", "Clean Code"],
-  hobbies     : ["Coding", "Listening 👂", "Building Cool Things"],
+  hobbies     : ["Coding", "Building Cool Things"],
   currentlyOn : "Grinding projects & growing every day 🚀",
   motto       : "Listen first. Build second. Ship always.",
 };
