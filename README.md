@@ -82,12 +82,12 @@ const maida: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MaidaSyed&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaidaSyed&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0b429&currStreakLabel=58a6ff" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=MaidaSyed&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=MaidaSyed&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0b429&currStreakLabel=58a6ff" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaidaSyed&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+<img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MaidaSyed&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 
 </div>
 
@@ -96,7 +96,7 @@ const maida: Developer = {
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" align="center" /> &nbsp; GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MaidaSyed&theme=algolia&no-frame=true&column=6&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MaidaSyed&theme=algolia&no-frame=true&column=6&margin-w=10&margin-h=10" />
 </div>
 
 ---
