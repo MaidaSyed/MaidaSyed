@@ -96,7 +96,7 @@ const maida: Developer = {
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="26" align="center" /> &nbsp; GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=MaidaSyed&theme=algolia&no-frame=true&column=6&margin-w=10&margin-h=10" />
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
 </div>
 
 ---
