@@ -1,32 +1,11 @@
-name: Update trophies
-
-on:
-  schedule:
-    - cron: "0 3 * * *"
-  push:
-    paths:
-      - ".github/workflows/trophies.yml"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-
       - name: Generate trophy
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: MaidaSyed
-          output_path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit trophy
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/trophy.svg
-          git commit -m "Update trophy" || exit 0
-          git push
+          file: profile/trophy.svg
+          theme: algolia
+          max-cols: 6
+          margin-width: 10
+          margin-height: 10
+          no-frame: true
+          token: ${{ secrets.TROPHY_TOKEN }}
